@@ -3,7 +3,7 @@ import { useRef } from "react";
 import { Mail, Github, Linkedin, ArrowUpRight } from "lucide-react";
 
 const links = [
-  { icon: Mail, label: "Email", href: "mailto:hariharasudhan423450@gmail.com", display: "hello@example.com" },
+  { icon: Mail, label: "Email", href: "mailto:hariharasudhan423450@gmail.com", display: "My Email" },
   { icon: Github, label: "GitHub", href: "https://github.com", display: "github.com/harihara" },
   { icon: Linkedin, label: "LinkedIn", href: "https://linkedin.com", display: "linkedin.com/in/harihara" },
 ];
